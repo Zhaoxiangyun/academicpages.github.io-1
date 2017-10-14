@@ -7,5 +7,5 @@ redirect_from:
   - /about/
   - /about.html
 ---
-This is Taylor(Xiangyun) Zhao homepage!
+ This is Taylor(Xiangyun) Zhao homepage!
 
