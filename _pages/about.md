@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
- This is Taylor(Xiangyun) Zhao homepage!Hi There. This is Saining Xie.
+ This is Taylor(Xiangyun) Zhao homepage!
 
 I am a PhD student at EECS Department, Northwestern University where I am advised by Professor Ying Wu. I obtained my bachelor degree from University of Electronic Science and Technology of China.
 
