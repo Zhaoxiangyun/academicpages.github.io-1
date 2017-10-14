@@ -11,30 +11,41 @@ redirect_from:
 
 Education
 ======
-* B.S. in EE, UESTC University, 2014
+* B.S. in ECE, UESTC University, 2014
+  * GPA: 3.85 Major GPA: 3.91 Rank: 1/40
 * M.S. in ECE, University of Carlifornia San Diego, 2017
 * Ph.D in Computer Vision and Machine Learning, Northwestern University, 2021 (expected)
 
-Work experience
+Research experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* 2017.9 - Present Research Assistant, EECS department, Northwestern University
+  * Supervisor: Ying Wu
+
+* 2017.5 - 2017.9: Research Intern, Creative Technology Lab, Adobe Research
+  * Supervisor: Haoxiang Li and Xiaohui Shen
+  * Attribute aware face retrieval
+  * Will submit one paper to CVPR 2018
+
+* 2016.5 - 2016.11: Research Intern, Visual Computing group, Microsoft Research Asia
+  * Supervisor: Yichen Wei
+  * General object detection and segmentation
+  * Will submit one paper to CVPR 2018
+
+* 2015.9 - 2016.5: Research Intern, Qihoo 360 AI Institute
+  * Supervisor: Shuicheng Yan
+  * Face related Recognition
+  * Publish one paper in ECCV 2016
+
+* 2014.11 - 2015.2 Research Assistant, University of California San Diego
+  *Supervisor: Pamela Cosman
+  *Underwater image enhancement
+  *Publish one paper in ICIP 2015
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Program: Python(proficient), Mablab, C++
+* Package: Tensorflow(proficient), Caffe(proficient), Torch, Theano, Mxnet
 
 Publications
 ======
@@ -48,12 +59,12 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
+Awards
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
+* Supported University Collaborations, funded by Adobe
+* Top 10% paper award, ICIP 2015
+* Excellent Scholarship for continue to studing abroad, UESTC, China
+* 1st Class Scholarship for Academic Excellence(5%), UESTC, China
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
