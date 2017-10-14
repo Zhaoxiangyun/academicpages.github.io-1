@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in ECE, UESTC University, 2014
+* B.S. in ECE, University of Electronic Science and Technology of China, 2014
   * GPA: 3.85 Major GPA: 3.91 Rank: 1/40
 * M.S. in ECE, University of Carlifornia San Diego, 2017
 * Ph.D in Computer Vision and Machine Learning, Northwestern University, 2021 (expected)
@@ -44,7 +44,7 @@ Research experience
 
 Skills
 ======
-* Program: Python(proficient), Mablab, C++
+* Program: Python(proficient), Mablab, C/C++
 * Package: Tensorflow(proficient), Caffe(proficient), Torch, Theano, Mxnet
 
 Publications
