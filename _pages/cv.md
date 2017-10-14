@@ -38,9 +38,9 @@ Research experience
   * Publish one paper in ECCV 2016
 
 * 2014.11 - 2015.2 Research Assistant, University of California San Diego
-  *Supervisor: Pamela Cosman
-  *Underwater image enhancement
-  *Publish one paper in ICIP 2015
+  * Supervisor: Pamela Cosman
+  * Underwater image enhancement
+  * Publish one paper in ICIP 2015
 
 Skills
 ======
